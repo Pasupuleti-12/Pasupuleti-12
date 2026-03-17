@@ -7,18 +7,18 @@
 
 ## 🧠 About Me
 
-I am an AI Engineer with ~3 years of experience building **scalable Generative AI systems, Agentic workflows, and production-grade ML pipelines**.
+I am an AI Engineer with ~3 years of experience specializing in **Generative AI, Agentic workflows, and scalable machine learning systems**.
 
-I hold a **B.Tech in Biotechnology from KL University** and am currently pursuing an **M.Tech in AI & Data Science from IIT Patna**, combining interdisciplinary knowledge with strong AI engineering expertise.
+Currently pursuing **M.Tech in AI & Data Science from IIT Patna**, with a strong focus on building **production-grade AI systems**.
 
-My focus is on developing **end-to-end intelligent systems** that integrate:
+My work revolves around designing **end-to-end intelligent systems** that integrate:
 
 - 🧠 Large Language Models (LLMs)  
 - 🔎 Retrieval-Augmented Generation (RAG)  
 - 🤖 Autonomous Agentic Systems  
-- ⚙️ Scalable Data & ML Pipelines  
+- ⚙️ Scalable ML and data pipelines  
 
-I am particularly interested in building **robust, high-performance AI systems** that operate reliably in real-world environments.
+I am passionate about developing **high-performance AI systems** that are reliable, efficient, and scalable.
 
 ---
 
@@ -81,7 +81,7 @@ I am particularly interested in building **robust, high-performance AI systems**
 - 🔎 Building **high-accuracy RAG pipelines with optimized retrieval**  
 - 🧠 Developing **LLM-powered applications at scale**  
 - 📈 Designing **efficient embedding and vector search systems**  
-- ⚙️ Deploying **production-ready AI systems with robust evaluation pipelines**  
+- ⚙️ Deploying **production-ready AI systems with evaluation pipelines**  
 
 ---
 
@@ -102,9 +102,9 @@ Actively contributing and exploring opportunities in:
 - Generative AI  
 - LLM Systems  
 
-Open to collaborating on:
+Open to collaboration on:
 
-- AI/ML system design  
+- AI/ML systems  
 - GenAI applications  
 - Open-source contributions  
 
@@ -117,4 +117,4 @@ Open to collaborating on:
 
 ---
 
-⭐ *Focused on building scalable, intelligent systems powered by LLMs, agentic workflows, and modern AI architectures.*
+⭐ *Focused on building scalable AI systems powered by LLMs, agentic workflows, and modern machine learning architectures.*
